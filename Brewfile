@@ -58,5 +58,16 @@ install zopfli
 
 install homebrew/versions/lua52
 
+# Rob's customizations
+install ansible
+install composer
+install discount
+install mogenerator
+install mysql
+install openssl
+install sshpass
+install postgresql
+install rbenv
+
 # Remove outdated versions from the cellar
 cleanup
