@@ -1,3 +1,11 @@
+# Rob's dotfiles customizations
+
+## .gitignore
+
+    gem install gitignores
+    gitignores list
+    gitignores add OSX ...
+
 # Mathias’s dotfiles
 
 ## Installation
